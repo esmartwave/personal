@@ -1,0 +1,24 @@
+Title: Custard pie
+Description: 
+Source: 
+Original URL: 
+Yield: 8 servings
+Active: 
+Total: 
+Image: https://cdn2.pepperplate.com/recipes/d57172b3d1fa4c409251403235d79f75.jpg
+Ingredients:
+	2 cups milk
+	4 eggs
+	1/2 cup butter, melted
+	1 cup sugar
+	1/2 cup flour
+	1 teaspoon vanilla
+	1/4 teaspoon salt
+
+Instructions:
+	In blender, combine all ingredients, cover and process until smooth.
+	Pour into greased 9" deep dish pie plate.
+	Bake at 350° for 50 minutes or until knife inserted near center comes out clean.
+	Cool on wire rack for 1 hour.
+	Refrigerate until serving.
+

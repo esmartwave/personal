@@ -1,0 +1,28 @@
+Title: Biscuits and Gravy
+Description: 
+Source: Outpost
+Original URL: 
+Yield: 6 Servings
+Active: 
+Total: 
+Categories: breakfast
+Image: https://cdn2.pepperplate.com/recipes/3072269.jpg
+Ingredients:
+[Gravy]
+	2 tablespoons butter
+	1/4 cup all-purpose flour
+	3 cups 2% milk
+	1/2 teaspoon salt
+	1/4 teaspoon ground black pepper
+
+[Pork]
+	1 pound ground pork breakfast sausage
+
+Instructions:
+[Gravy]
+	Brown sausage in a large skillet over medium-high heat, breaking into small pieces. Strain sausage and set aside, leaving the drippings in the skillet.
+	Mix butter into the sausage drippings. Reduce heat to medium, slowly add the flour, stirring constantly to combine. Mixture will be golden brown and lumpy.
+	Gradually whisk milk into flour mixture, stirring constantly and breaking up lumps. When the mixture is smooth, thickened, and begins to bubble, return the sausage to skillet. Season with salt and pepper. Reduce heat and simmer for about 15 minutes.
+	Gravy will thicken as it sits, add more milk as desired.
+	Serve over buttermilk biscuits and poached eggs for a down-home country breakfast.
+

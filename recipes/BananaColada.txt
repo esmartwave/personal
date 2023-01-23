@@ -1,0 +1,19 @@
+Title: Banana Colada
+Description: 
+Source: Food Network
+Original URL: http://www.foodnetwork.com/recipes/bobby-flay/banana-colada-recipe/index.html
+Yield: --
+Active: 10 min
+Total: 10 min
+Categories: banana, rum, summer, coconut, pineaple
+Ingredients:
+	3 ripe bananas, peeled and quartered
+	18 ounces unsweetened pineapple juice
+	4 ounces coconut milk
+	3 ounces dark rum
+	2 cups ice
+	1/4 cup toasted coconut
+
+Instructions:
+	Place bananas and pineapple juice in a blender and blend until smooth. Add coconut milk, rum and ice and mix until frothy. Garnish with toasted coconut.
+

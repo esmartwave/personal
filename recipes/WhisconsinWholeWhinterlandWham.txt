@@ -1,0 +1,19 @@
+Title: Whisconsin Whole Whinterland Wham
+Description: Bake a whole hame with Hinterland Scotch Ale or Bourbon Stout.
+Source: 
+Original URL: 
+Yield: 
+Active: 
+Total: 
+Ingredients:
+[Glaze]
+	Garlic
+	Onion
+	Butter
+	Brown Sugar
+	Hinterland Scotch Ale (or substitute for similarly great Scotch Ale)
+
+[Ham]
+	Rupena's Whole Ham, Unseasoned
+
+Instructions:

@@ -1,0 +1,17 @@
+Title: Banana Nut Torpedo
+Description: A tasty treat that is also pretty healthy.
+Source: 
+Original URL: 
+Yield: 
+Active: 
+Total: 
+Ingredients:
+	1 Banana
+	2 Tbsp Almonds (sliced or smashed or chopped)
+	1 Tbsp Honey (optional)
+
+Instructions:
+	Halve the banana
+	Sprinkle the almonds
+	Drizzle w/ honey (optional)
+

@@ -1,0 +1,17 @@
+Title: Cold Brew Coffee
+Description: Coffee, but cold and less acidic.
+Source: 
+Original URL: 
+Yield: 
+Active: 
+Total: 
+Image: https://cdn2.pepperplate.com/recipes/cd3ef6781f5c489bbf1160b043ae8650.jpg
+Ingredients:
+	4 cups of filtered, not hot water
+	3/4 cup medium (or medium coarse) ground coffee, medium roast
+
+Instructions:
+	Put it in a jar
+	Seal it for 12-24 hours
+	Strain and drink
+

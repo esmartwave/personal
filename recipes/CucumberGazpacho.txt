@@ -1,0 +1,21 @@
+Title: Cucumber Gazpacho
+Description: 
+Source: Food & Wine
+Original URL: http://www.foodandwine.com/recipes/cucumber-gazpacho
+Yield: 
+Active: 
+Total: 
+Ingredients:
+[Ingredients]
+	4 cucumbers-peeled, seeded and chopped
+	1 1/2 cups seedless green grapes (9 ounces)
+	1 small garlic clove
+	1/3 cup extra-virgin olive oil
+	2 teaspoons distilled white vinegar
+	1 cup of water
+	Salt
+	Cooked shrimp and chopped roasted almonds, for garnish
+
+Instructions:
+	In a blender, combine the cucumbers, grapes, garlic, olive oil, vinegar and 1 cup of water; puree until smooth. Season with salt. Serve chilled, garnished with shrimp and almonds.
+
