@@ -1,3 +1,73 @@
+# Workout Planning
+
+## Supportive Efforts
+
+What am I doing to support helthy choices and create an environment for my succesS?
+
+### Preparation and Ongoing Improvement
+
+### Food
+
+Whole30 is great
+
+### Sleep
+
+7 hours a night, up by 5am
+
+### Support and Encouragment
+
+Alissa
+Account-a-billabuddy
+
+## Workouts
+
+|	Activity	|	Best Day(s) of Week	|	Best Time of Day	|	Benefits	|	Target Reps / Time	|	Target Set	|	Grouping	|	Reference	|
+|	----------------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	a	|	Daily	|	a	|	a	|	a	|	a	|	Basic Cardio	|	a	|
+|	Run - outside	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
+|	Run - Gym	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
+|	Cycle - outside	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
+|	Spin - Gym	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
+|	Yoga - activation	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	Yoga - relaxation	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	Neck strap - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	Turtle push - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	Nerve Stretches - legs - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	Rotisserie Planks - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	Neck strap - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Legs	|	a	|
+|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Arms	|	a	|
+|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Lower Torso	|	a	|
+|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Upper Torso	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	_template	|	Daily,Weekdays,Weekends,M,Tu,W,Th,F,Sa,Su	|	Morning,Day,Night	|	text	|	##,#:##	|	##	|	text (keep common)	|	[url](https://)	|
+|	_template_	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+
+
 activate, stretch, kung fu, walk/run/bike for 20
 
 Christopher Stretches (neck strap, turtle, plank, side plank, nerve stretches for hamms)
@@ -192,3 +262,42 @@ Huggy twists 		1	:10
 bend around torso	1	:10
 
 warrior poses		1	:10 each side
+
+
+### Mornings
+
+I want to use this time as a "warm-up" for the day. The older we get, the more stretching and activation we need.
+* Low cardio
+* Muscle Activation
+* Stretches
+* Yoga
+* Martial Art activities
+
+### Afternoons or Whenever
+
+* Med-High cardio (running/biking is a good baseline)
+* Strength training
+* Usually less time available to do these, except on weekends
+* Getting results requires this take longer
+* Martial arts activities
+* HIIT might be good here
+
+
+### Evenings
+* Low cardio
+* Body relaxing
+* Stretches
+* Yoga
+* 8 minute quiet time
+
+## Current Plan
+
+### Current Workout Regime
+
+Activity	|	Best Day(s) of Week	|	Best Time of Day	|	Benefits	|	Target Reps / Length of Time	|	Target Set	|	Grouping	|	Reference
+
+### Current Food Plan
+
+### Current schedule (sleep & lerning)
+
+
