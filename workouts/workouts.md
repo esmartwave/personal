@@ -109,6 +109,121 @@ SPIN https://youtu.be/wBurKQX7h4Q
 Nighttime Yoga
 https://www.youtube.com/watch?v=f9BsNiqqd04
 
+
+## MORNING
+
+Inhale hands to chest
+Exhale push diwn
+inhale arms out
+exhale pull in
+Inhale to sky
+exhale out
+ 
+qBack Stretch
+Leg Strap Stretch
+hammy stretch
+angle waggle (10)
+knees waggle 
+hip swaggle (to left, to right)
+closed arm twist left, right and hold
+side stretches
+back stretch
+touch ground
+arm flaps
+one arm windmills
+neck rolls
+
+Turtle push
+Rotisserie x2 w/ Triangle Pushups x30 
+Calf Raises
+Foot things
+Foot Massage w/ golf ball
+TRX "Ys" x3
+
+Yoga?
+https://www.youtube.com/watch?v=pJluhiy5eas
+
+Hands on chakra, deep breathing on back
+
+Legs pushes
+
+Butt up bridge, keep chest closed
+
+Sit up, lift legs off ground, use hands if needed
+
+Sit up, leg over leg, twist opposite
+
+Sit up, leg cross over leg, pull in leg
+
+Lunges
+
+Liften Lunges
+
+Stand on single leg, lift up other leg
+
+Chair pose
+
+Stand up, lean both eays (sway tree)
+
+Cobra, Cat/cow
+
+Lay on back, twist hips to ground
+
+Long lever plank/crunch
+
+## NIGHT
+
+Funny 15 https://www.youtube.com/watch?v=16C0RJtAjTc
+
+lay on back, knees to chest
+
+Hum in your nose
+
+On back, bring leg up, move back and forth, then twist across other leg, move leg up and down once across
+
+Circle on knees, move things around in the hips
+
+Open up hips, move around
+
+Leg across, upll up other leg
+
+
+Calm 20 https://www.youtube.com/watch?v=f9BsNiqqd04
+
+Child pose
+
+Lizard (supported lunge)
+
+Bend leg, other leg straight, sit up, lean back
+
+Triangle legs - one leg out, other leg/foot in to groin, fold down
+
+Bend leg, extend other leg, stretch down to floor over bent leg
+
+LEg strappy stretches with yoga belt
+
+Do this as well, let the leg go to the side (I might not be able to do this)
+
+On back. Feet in (hip opener)
+
+Soft 12 https://www.youtube.com/watch?v=RI5gOBeTqyE
+
+On belly, Cobra, but not up, just on elbows
+
+On belly, bend leg, grab leg and gently pull
+
+Child pose
+
+Hip opwner, sitting up and fold over
+
+Bridge pose, lift up hips
+
+Cross leg, pull up other leg, on back
+
+LEft and rigth twist
+
+Happy Baby (on back, grab feet, pull back)
+
 # Day 1
 Circuit 1
 
