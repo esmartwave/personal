@@ -1,25 +1,47 @@
 # Workout Planning
 
+## Current Plan
+
+### Sleep
+
+* 7 hours a night, up by 5am
+
+### Food
+
+### Support & Motivation
+
+### Improvement
+
+### Current Workout Regime
+
+Activity	|	Best Day(s) of Week	|	Best Time of Day	|	Benefits	|	Target Reps / Length of Time	|	Target Set	|	Grouping	|	Reference	|
+
+
 ## Supportive Efforts
 
 What am I doing to support helthy choices and create an environment for my succesS?
 
-### Preparation and Ongoing Improvement
+### Sleep Resources
+
+* I need 7+ hours of sleep per night
 
 ### Food
 
 Whole30 is great
 
-### Sleep
 
-7 hours a night, up by 5am
 
 ### Support and Encouragment
 
-Alissa
-Account-a-billabuddy
+* Alissa
+* Account-a-billabuddy
 
-## Workouts
+## Workout Options
+
+|	_template_	|	Daily,Weekdays,Weekends,M,Tu,W,Th,F,Sa,Su	|	Morning,Day,Night	|	text	|	##,#:##	|	##	|	text (keep common)	|	[url](https://)	|
+|	----------------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|
+|	_template_	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+
 
 |	Activity	|	Best Day(s) of Week	|	Best Time of Day	|	Benefits	|	Target Reps / Time	|	Target Set	|	Grouping	|	Reference	|
 |	----------------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|
@@ -64,53 +86,23 @@ Account-a-billabuddy
 |	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
 |	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
 |	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	_template	|	Daily,Weekdays,Weekends,M,Tu,W,Th,F,Sa,Su	|	Morning,Day,Night	|	text	|	##,#:##	|	##	|	text (keep common)	|	[url](https://)	|
-|	_template_	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
 
+### Morning - Activate
 
-activate, stretch, kung fu, walk/run/bike for 20
+I want to use this time as a "warm-up" for the day. The older we get, the more stretching and activation we need.
+* Low cardio
+* Muscle Activation
+* Stretches
+* Yoga
+* Martial Art activities
 
-Christopher Stretches (neck strap, turtle, plank, side plank, nerve stretches for hamms)
-
-Kung Fun Stretches (breathes, up/side/back stretch)
-
-
-
-Kung Fu Stamina 
-
-Crouch, turn and block 1:45
-
-Burpees w/ punch kick 1:45
-
-Huggy twist avoids 1:45
-
-Punch-down and block  1:45
-
-Walking planks & pushup  1:45
-
-Slow punches 1:45
-
-Hand kicks1:45
-
-Whirling Panda1:45
-
-Handflowers/wristlocks 1:45
-
-Kung fu Tree, slow in/out 1:45
-
-
-
-cardio (20 min brisk walk/run (2.5mi))
-
-
-
-SPIN https://youtu.be/wBurKQX7h4Q
-
-Nighttime Yoga
-https://www.youtube.com/watch?v=f9BsNiqqd04
-
-
-## MORNING
+Brisk Walk 	20min
+Bike	20min
+Run 	20min
+Gentle Nexk Pulls
+Turtle Core Push
+Plank
+Rotisserie Planks
 
 Inhale hands to chest
 Exhale push diwn
@@ -140,7 +132,7 @@ Foot things
 Foot Massage w/ golf ball
 TRX "Ys" x3
 
-Yoga?
+#### Yoga?
 https://www.youtube.com/watch?v=pJluhiy5eas
 
 Hands on chakra, deep breathing on back
@@ -171,60 +163,46 @@ Lay on back, twist hips to ground
 
 Long lever plank/crunch
 
-## NIGHT
+### Day - Stamina and Strength
 
-Funny 15 https://www.youtube.com/watch?v=16C0RJtAjTc
+* Med-High cardio (running/biking is a good baseline)
+* Strength training
+* Usually less time available to do these, except on weekends
+* Getting results requires this take longer
+* Martial arts activities
+* HIIT might be good here
 
-lay on back, knees to chest
+#### Cardio & Strength
 
-Hum in your nose
-
-On back, bring leg up, move back and forth, then twist across other leg, move leg up and down once across
-
-Circle on knees, move things around in the hips
-
-Open up hips, move around
-
-Leg across, upll up other leg
+SPIN https://youtu.be/wBurKQX7h4Q
 
 
-Calm 20 https://www.youtube.com/watch?v=f9BsNiqqd04
+##### Kung Fu Stamina 
 
-Child pose
+Crouch, turn and block 1:45
 
-Lizard (supported lunge)
+Burpees w/ punch kick 1:45
 
-Bend leg, other leg straight, sit up, lean back
+Huggy twist avoids 1:45
 
-Triangle legs - one leg out, other leg/foot in to groin, fold down
+Punch-down and block  1:45
 
-Bend leg, extend other leg, stretch down to floor over bent leg
+Walking planks & pushup  1:45
 
-LEg strappy stretches with yoga belt
+Slow punches 1:45
 
-Do this as well, let the leg go to the side (I might not be able to do this)
+Hand kicks1:45
 
-On back. Feet in (hip opener)
+Whirling Panda1:45
 
-Soft 12 https://www.youtube.com/watch?v=RI5gOBeTqyE
+Handflowers/wristlocks 1:45
 
-On belly, Cobra, but not up, just on elbows
+Kung fu Tree, slow in/out 1:45
 
-On belly, bend leg, grab leg and gently pull
+#### Strength & Cardio
 
-Child pose
+##### Day 1
 
-Hip opwner, sitting up and fold over
-
-Bridge pose, lift up hips
-
-Cross leg, pull up other leg, on back
-
-LEft and rigth twist
-
-Happy Baby (on back, grab feet, pull back)
-
-# Day 1
 Circuit 1
 
 Kettlebell Deadlift38
@@ -261,7 +239,8 @@ DB French Press26-12
 
 TRX Chest Press210
 
-# Day 2
+##### Day 2
+
 Circuit 1
 
 TRX/DB Hip Hinge	2	8
@@ -298,7 +277,8 @@ Hammer curls		2	10
 
 TRX Low Row 		2	12
 
-# Day 3
+##### Day 3
+
 Circuit 1
 
 Dead Lift (Scooby)	2	10
@@ -335,7 +315,8 @@ Calf Raises		2	12
 
 TRX Lunge T-Twist	2	10 ea side
 
-# Day 4
+##### Day 4
+
 Sun-toe stretch		1	10
 
 tiny alternat jumps	1	45
@@ -378,41 +359,62 @@ bend around torso	1	:10
 
 warrior poses		1	:10 each side
 
+### Night - Release
 
-### Mornings
-
-I want to use this time as a "warm-up" for the day. The older we get, the more stretching and activation we need.
-* Low cardio
-* Muscle Activation
-* Stretches
-* Yoga
-* Martial Art activities
-
-### Afternoons or Whenever
-
-* Med-High cardio (running/biking is a good baseline)
-* Strength training
-* Usually less time available to do these, except on weekends
-* Getting results requires this take longer
-* Martial arts activities
-* HIIT might be good here
-
-
-### Evenings
 * Low cardio
 * Body relaxing
 * Stretches
 * Yoga
 * 8 minute quiet time
 
-## Current Plan
 
-### Current Workout Regime
+##### Funny 15 https://www.youtube.com/watch?v=16C0RJtAjTc
 
-Activity	|	Best Day(s) of Week	|	Best Time of Day	|	Benefits	|	Target Reps / Length of Time	|	Target Set	|	Grouping	|	Reference
+lay on back, knees to chest
 
-### Current Food Plan
+Hum in your nose
 
-### Current schedule (sleep & lerning)
+On back, bring leg up, move back and forth, then twist across other leg, move leg up and down once across
+
+Circle on knees, move things around in the hips
+
+Open up hips, move around
+
+Leg across, upll up other leg
 
 
+##### Calm 20 https://www.youtube.com/watch?v=f9BsNiqqd04
+
+Child pose
+
+Lizard (supported lunge)
+
+Bend leg, other leg straight, sit up, lean back
+
+Triangle legs - one leg out, other leg/foot in to groin, fold down
+
+Bend leg, extend other leg, stretch down to floor over bent leg
+
+LEg strappy stretches with yoga belt
+
+Do this as well, let the leg go to the side (I might not be able to do this)
+
+On back. Feet in (hip opener)
+
+##### Soft 12 https://www.youtube.com/watch?v=RI5gOBeTqyE
+
+On belly, Cobra, but not up, just on elbows
+
+On belly, bend leg, grab leg and gently pull
+
+Child pose
+
+Hip opwner, sitting up and fold over
+
+Bridge pose, lift up hips
+
+Cross leg, pull up other leg, on back
+
+Left and rigth twist
+
+Happy Baby (on back, grab feet, pull back)
