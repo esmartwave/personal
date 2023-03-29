@@ -27,9 +27,135 @@ What am I doing to support helthy choices and create an environment for my succe
 
 ### Food
 
-Whole30 is great
+#### Whole30
+
+##### Yes
+Meat
+Fish
+Oils and Fats (no Dairy, Ghee is OK)
+Vegetables
+Fruits
+Herbs
+
+##### No
+Alcohol
+Sugar
+Grains
+Legumes
+Dairy
+
+#### Dr Sebi's Anti Inflammatory Diet
+
+##### Vegetables
+Amaranth greens (Callaloo, a variety of greens) 
+Avocado
+Bell Peppers
+Chayote (Mexican squash)
+Cucumber
+Dandelion greens
+Garbanzo beans
+Izote (Cactus flower/cactus leaf) 
+Kale
+Lettuce (All, except Iceberg) 
+Mushrooms (All, except Shitake) 
+Nopales (Mexican cactus)
+Okra
+Olives
+Onions
+Sea Vegetables (Wakame/dulse/arame/hijiki/nori) 
+Squash
+Tomato (Cherry and plum only) 
+Tomatillo
+Turnip greens
+Zucchini
+Watercress
+Purslane (Verdolaga) Wild arugula
+
+##### Fruits
+Apples (Granny Smith and Red delicious not recommended)
+Figs Bananas (The smallest one or the Burro/midsize/original banana)
+Berries (All varieties, no cranberries) Elderberries (In any form) Cantaloupe
+Cherries
+Currants
+Dates
+Figs
+Grapes (Seeded)
+Limes (Key limes, with seeds)
+Mango
+Melons (Watermelon, Seeded)
+Orange (Seville or sour preferred, difficult to find) Papayas
+Peaches
+Pears
+Plums
+Prickly Pear (Cactus fruit)
+Prunes
+Raisins (Seeded)
+Soft Jelly Coconuts
+Soursops (Latin or West Indian markets) Tamarind
 
 
+##### Natural Herbal Teas
+Burdock 
+Chamomile 
+Elderberry 
+Fennel 
+Ginger 
+Raspberry 
+Tila
+
+##### Grains
+Amaranth 
+Fonio 
+Kamut 
+Quinoa 
+Rye
+Spelt
+Tef
+Wild Rice
+
+##### Mild Flavors
+Basil
+Bay Leaf Cloves
+Dill Oregano Savory Sweet Basil Tarragon Thyme
+
+##### Oils
+Olive Oil (Do not cook) 
+Coconut Oil (Do not cook) 
+Grapeseed Oil
+Sesame Oil
+Hempseed Oil 
+Avocado Oil
+
+Important things to remember
+• If a food is not listed in this Nutritional Guide, it is NOT recommend. • Drink one gallon of natural spring water daily.
+• Take Dr. Sebi’s products one hour prior to pharmaceuticals.
+• All of Dr. Sebi’s products may be taken together with no interaction. • Following the Nutritional Guide strictly and taking the products
+regularly, produces the best results with reversing disease.
+• No animal products, no dairy, no fish, no hybrid foods and no alcohol. • Natural growing grains are alkaline-based; it is recommended that you
+consume only the grains listed in the Nutritional Guide instead of wheat.
+
+#### Sweet Flavors 
+Date Sugar 
+Pure Agave Syrup (From cactus)
+
+##### Salty Flavors
+Seaweed
+Pure Sea Salt
+Powdered Granulated Seaweed (Kelp/Dulse/Nori – has “sea taste”)
+
+##### Nuts & Seeds
+Hemp Seeds
+Raw Sesame Seeds
+Raw Sesame “Tahini” Butter 
+Walnuts
+Brazil Nuts
+
+##### Pungent and P Spicy Flavors 
+Achiote
+Cayenne/ African Bird Pepper Coriander (Cilantro)
+Onion Powder
+Habanero
+Sage
 
 ### Support and Encouragment
 
