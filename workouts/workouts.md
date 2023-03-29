@@ -30,12 +30,12 @@ What am I doing to support helthy choices and create an environment for my succe
 #### Whole30
 
 ##### Yes
-Meat
-Fish
-Oils and Fats (no Dairy, Ghee is OK)
-Vegetables
-Fruits
-Herbs
+* Meat
+* Fish
+* Oils and Fats (no Dairy, Ghee is OK)
+* Vegetables
+* Fruits
+* Herbs
 
 ##### No
 Alcohol
