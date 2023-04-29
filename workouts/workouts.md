@@ -1,20 +1,20 @@
 # Workout Planning
 
-## Current Plan
+## Current Plan Starts 4/10/2023
 
-### Sleep
-
-* 7 hours a night, up by 5am
-
-### Food
-
-### Support & Motivation
-
-### Improvement
+* **_Sleep_** - 7 hours a night, in bed by 9:15, up by 5am
+* **_Food_** - Modified Whole 30 and anti-inflammatory diet: no alcohol, no dairy, no extra sugar
+* **_Support & Motiviation_** - Future Me: thanking now me for taking action & being able to do the trip in September
+* **_Improvement_** - Spend about an hour each week reading News and improvement things
 
 ### Current Workout Regime
 
-Activity	|	Best Day(s) of Week	|	Best Time of Day	|	Benefits	|	Target Reps / Length of Time	|	Target Set	|	Grouping	|	Reference	|
+| M | Tu | W | Th | F | Sat | Sun |		Activity/Activity Group	|	Time of Day	|	Grouping	|	Benefits	|	Target Reps / Length of Time	|	Target Set	|	Reference	|
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |	----------------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|
+| X | X | X | X | X | X | X |	_TEMPALTE_	|	_time_	|	_grp_	|	_ben_	|	_target_	|	_set_	|	_ref_	|
+| X | X | X | X | X | X | X |	_template_	|	_fill_	|	_fill_	|	_fill_	|	_fill_	|	_fill_	|	_fill_	|
+| X | X | X | X | X | X | X |	Morning Stretch Routine 3	|	0600	|	a	|	a	|	a	|	a	|	a	|
+| X | X | X | X | X | X | X |	Morning Yoga Routine 1	|	0700	|	a	|	a	|	a	|	a	|	a	|
 
 
 ## Supportive Efforts
@@ -28,6 +28,15 @@ What am I doing to support helthy choices and create an environment for my succe
 ### Food
 
 #### Whole30
+|		|	Yes	|	No	|
+|	-	|	-----	|	-----	|
+|	All the Things	|	Meat	|	Alcohol	|
+|		|	Fish	|	Sugar	|
+|		|	Oils and Fats (no Dairy, Ghee is OK)	|	Grains	|
+|		|	Vegetables	|	Legumes	|
+|		|	Fruits	|	Dairy	|
+|		|	Herbs	|		|
+
 
 ##### Yes
 * Meat
@@ -45,6 +54,12 @@ Legumes
 Dairy
 
 #### Dr Sebi's Anti Inflammatory Diet
+
+Important things to remember
+* If a food is not listed in this Nutritional Guide, it is NOT recommend. • Drink one gallon of natural spring water daily.
+* Take Dr. Sebi’s products one hour prior to pharmaceuticals.
+* All of Dr. Sebi’s products may be taken together with no interaction. • Following the Nutritional Guide strictly and taking the products regularly, produces the best results with reversing disease.
+* No animal products, no dairy, no fish, no hybrid foods and no alcohol. • Natural growing grains are alkaline-based; it is recommended that you consume only the grains listed in the Nutritional Guide instead of wheat.
 
 ##### Vegetables
 Amaranth greens (Callaloo, a variety of greens) 
@@ -126,14 +141,6 @@ Sesame Oil
 Hempseed Oil 
 Avocado Oil
 
-Important things to remember
-• If a food is not listed in this Nutritional Guide, it is NOT recommend. • Drink one gallon of natural spring water daily.
-• Take Dr. Sebi’s products one hour prior to pharmaceuticals.
-• All of Dr. Sebi’s products may be taken together with no interaction. • Following the Nutritional Guide strictly and taking the products
-regularly, produces the best results with reversing disease.
-• No animal products, no dairy, no fish, no hybrid foods and no alcohol. • Natural growing grains are alkaline-based; it is recommended that you
-consume only the grains listed in the Nutritional Guide instead of wheat.
-
 #### Sweet Flavors 
 Date Sugar 
 Pure Agave Syrup (From cactus)
@@ -164,54 +171,75 @@ Sage
 
 ## Workout Options
 
-|	_template_	|	Daily,Weekdays,Weekends,M,Tu,W,Th,F,Sa,Su	|	Morning,Day,Night	|	text	|	##,#:##	|	##	|	text (keep common)	|	[url](https://)	|
+|	Activity Group	|	_template_	|	Daily,Weekdays,Weekends,M,Tu,W,Th,F,Sa,Su	|	Morning,Day,Night	|	text	|	##,#:##	|	##	|	text (keep common)	|	[url](https://)	|
 |	----------------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|
 |	_template_	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
 
 
-|	Activity	|	Best Day(s) of Week	|	Best Time of Day	|	Benefits	|	Target Reps / Time	|	Target Set	|	Grouping	|	Reference	|
-|	----------------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
-|	a	|	Daily	|	a	|	a	|	a	|	a	|	Basic Cardio	|	a	|
-|	Run - outside	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
-|	Run - Gym	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
-|	Cycle - outside	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
-|	Spin - Gym	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
-|	Yoga - activation	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	Yoga - relaxation	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	Neck strap - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	Turtle push - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	Nerve Stretches - legs - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	Rotisserie Planks - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	Neck strap - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Legs	|	a	|
-|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Arms	|	a	|
-|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Lower Torso	|	a	|
-|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Upper Torso	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	Activity Group	|	Activity	|	Best Day(s) of Week	|	Best Time of Day	|	Benefits	|	Target Reps / Time	|	Target Set	|	Grouping	|	Reference	|
+|	--------	|	----------------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|	--------	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Morning Stretch Routine 3	|	Yoga Neck Strap	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	Christopher DeMarco	|
+|	Morning Stretch Routine 3	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Morning Stretch Routine 3	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Morning Stretch Routine 3	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	_null_	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	a	|	a	|	Daily	|	a	|	a	|	a	|	a	|	Basic Cardio	|	a	|
+|	a	|	Run - outside	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
+|	a	|	Run - Gym	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
+|	a	|	Cycle - outside	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
+|	a	|	Spin - Gym	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
+|	a	|	Yoga - activation	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	a	|	Yoga - relaxation	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	a	|	Neck strap - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	a	|	Turtle push - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	a	|	Nerve Stretches - legs - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	a	|	Rotisserie Planks - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	a	|	Neck strap - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
+|	a	|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Legs	|	a	|
+|	a	|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Arms	|	a	|
+|	a	|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Lower Torso	|	a	|
+|	a	|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Upper Torso	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
 
 ### Morning - Activate
 
