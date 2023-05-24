@@ -47,11 +47,12 @@ What am I doing to support helthy choices and create an environment for my succe
 * Herbs
 
 ##### No
-Alcohol
-Sugar
-Grains
-Legumes
-Dairy
+
+* Alcohol
+* Sugar
+* Grains
+* Legumes
+* Dairy
 
 #### Dr Sebi's Anti Inflammatory Diet
 
@@ -62,107 +63,119 @@ Important things to remember
 * No animal products, no dairy, no fish, no hybrid foods and no alcohol. • Natural growing grains are alkaline-based; it is recommended that you consume only the grains listed in the Nutritional Guide instead of wheat.
 
 ##### Vegetables
-Amaranth greens (Callaloo, a variety of greens) 
-Avocado
-Bell Peppers
-Chayote (Mexican squash)
-Cucumber
-Dandelion greens
-Garbanzo beans
-Izote (Cactus flower/cactus leaf) 
-Kale
-Lettuce (All, except Iceberg) 
-Mushrooms (All, except Shitake) 
-Nopales (Mexican cactus)
-Okra
-Olives
-Onions
-Sea Vegetables (Wakame/dulse/arame/hijiki/nori) 
-Squash
-Tomato (Cherry and plum only) 
-Tomatillo
-Turnip greens
-Zucchini
-Watercress
-Purslane (Verdolaga) Wild arugula
+
+* Amaranth greens (Callaloo, a variety of greens) 
+* Avocado
+* Bell Peppers
+* Chayote (Mexican squash)
+* Cucumber
+* Dandelion greens
+* Garbanzo beans
+* Izote (Cactus flower/cactus leaf) 
+* Kale
+* Lettuce (All, except Iceberg) 
+* Mushrooms (All, except Shitake) 
+* Nopales (Mexican cactus)
+* Okra
+* Olives
+* Onions
+* Sea Vegetables (Wakame/dulse/arame/hijiki/nori) 
+* Squash
+* Tomato (Cherry and plum only) 
+* Tomatillo
+* Turnip greens
+* Zucchini
+* Watercress
+* Purslane (Verdolaga) Wild arugula
 
 ##### Fruits
-Apples (Granny Smith and Red delicious not recommended)
-Figs Bananas (The smallest one or the Burro/midsize/original banana)
-Berries (All varieties, no cranberries) Elderberries (In any form) Cantaloupe
-Cherries
-Currants
-Dates
-Figs
-Grapes (Seeded)
-Limes (Key limes, with seeds)
-Mango
-Melons (Watermelon, Seeded)
-Orange (Seville or sour preferred, difficult to find) Papayas
-Peaches
-Pears
-Plums
-Prickly Pear (Cactus fruit)
-Prunes
-Raisins (Seeded)
-Soft Jelly Coconuts
-Soursops (Latin or West Indian markets) Tamarind
+
+* Apples (Granny Smith and Red delicious not recommended)
+* Figs Bananas (The smallest one or the Burro/midsize/original banana)
+* Berries (All varieties, no cranberries) Elderberries (In any form) 
+* Cantaloupe
+* Cherries
+* Currants
+* Dates
+* Figs
+* Grapes (Seeded)
+* Limes (Key limes, with seeds)
+* Mango
+* Melons (Watermelon, Seeded)
+* Orange (Seville or sour preferred, difficult to find) 
+* Papayas
+* Peaches
+* Pears
+* Plums
+* Prickly Pear (Cactus fruit)
+* Prunes
+* Raisins (Seeded)
+* Soft Jelly Coconuts
+* Soursops (Latin or West Indian markets) Tamarind
 
 
 ##### Natural Herbal Teas
-Burdock 
-Chamomile 
-Elderberry 
-Fennel 
-Ginger 
-Raspberry 
-Tila
+
+* Burdock 
+* Chamomile 
+* Elderberry 
+* Fennel 
+* Ginger 
+* Raspberry 
+* Tila
 
 ##### Grains
-Amaranth 
-Fonio 
-Kamut 
-Quinoa 
-Rye
-Spelt
-Tef
-Wild Rice
+
+* Amaranth 
+* Fonio 
+* Kamut 
+* Quinoa 
+* Rye
+* Spelt
+* Tef
+* Wild Rice
 
 ##### Mild Flavors
-Basil
-Bay Leaf Cloves
-Dill Oregano Savory Sweet Basil Tarragon Thyme
+
+* Basil
+* Bay Leaf Cloves
+* Dill Oregano Savory Sweet Basil Tarragon Thyme
 
 ##### Oils
-Olive Oil (Do not cook) 
-Coconut Oil (Do not cook) 
-Grapeseed Oil
-Sesame Oil
-Hempseed Oil 
-Avocado Oil
+
+* Olive Oil (Do not cook) 
+* Coconut Oil (Do not cook) 
+* Grapeseed Oil
+* Sesame Oil
+* Hempseed Oil 
+* Avocado Oil
 
 #### Sweet Flavors 
-Date Sugar 
-Pure Agave Syrup (From cactus)
+
+* Date Sugar 
+* Pure Agave Syrup (From cactus)
 
 ##### Salty Flavors
-Seaweed
-Pure Sea Salt
-Powdered Granulated Seaweed (Kelp/Dulse/Nori – has “sea taste”)
+
+* Seaweed
+* Pure Sea Salt
+* Powdered Granulated Seaweed (Kelp/Dulse/Nori – has “sea taste”)
 
 ##### Nuts & Seeds
-Hemp Seeds
-Raw Sesame Seeds
-Raw Sesame “Tahini” Butter 
-Walnuts
-Brazil Nuts
+
+* Hemp Seeds
+* Raw Sesame Seeds
+* Raw Sesame “Tahini” Butter 
+* Walnuts
+* Brazil Nuts
 
 ##### Pungent and P Spicy Flavors 
-Achiote
-Cayenne/ African Bird Pepper Coriander (Cilantro)
-Onion Powder
-Habanero
-Sage
+
+* Achiote
+* Cayenne/ African Bird Pepper Coriander (Cilantro)
+* Onion Powder
+* Habanero
+* Sage
 
 ### Support and Encouragment
 
@@ -191,27 +204,43 @@ Sage
 |	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
 |	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
 |	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
-|	Yoga Morning Routine 1	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
-|	Morning Stretch Routine 3	|	Yoga Neck Strap	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	Christopher DeMarco	|
+|	Sciatic Nerve Stretches - DeMarco	|	Quarterback Stretch	|	M Tu W Th F Sa Su	|	Morning, Night	|	Stretching, reducing sciatic pain	|	1	|	3	|	Stretching	|	_null_	|
+|	Sciatic Nerve Stretches - DeMarco	|	Yoga Leg Strep Stretch	|	M Tu W Th F Sa Su	|	Morning	|	Stretching, reducing sciatic pain	|	1 each leg	|	3	|	Stretching	|	_null_	|
+|	Sciatic Nerve Stretches - DeMarco	|	Foot Massage w/ golf ball	|	M Tu W Th F Sa Su	|	Morning	|	Stretching, reducing sciatic pain	|	20 sec each foot	|	2	|	Stretching	|	_null_	|
+|	Sciatic Nerve Stretches - DeMarco	|	Hamstring Stretch (hinge over, hold backs of knees)	|	M Tu W Th F Sa Su	|	Morning	|	Stretching, reducing sciatic pain	|	1	|	3	|	Stretching	|	_null_	|
+|	Kung Fu - Stretches	|	Ankle waggle	|	M Tu W Th F Sa Su	|	Morning	|	Stretching, Calming	|	10 each	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Stretches	|	Knee waggle	|	M Tu W Th F Sa Su	|	Morning, Night	|	Stretching, Calming	|	10	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Stretches	|	Hip swaggle	(to the left, to the right) |	M Tu W Th F Sa Su	|	Morning, Night	|	Stretching, Calming	|	10 each side	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Stretches	|	closed arm twist (left, then right and hold) |	M Tu W Th F Sa Su	|	Morning	|	Stretching, Calming	|	10 each side	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Stretches	|	Side bends |	M Tu W Th F Sa Su	|	Morning	|	Stretching, Calming	|	10 seconds each side	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Stretches	|	Back bends |	M Tu W Th F Sa Su	|	Morning	|	Stretching, Calming	|	10 seconds	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Stretches	|	Hinge over, Palsm to ground |	M Tu W Th F Sa Su	|	Morning	|	Stretching, Calming	|	15 seconds	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Stretches	|	Arm flaps |	M Tu W Th F Sa Su	|	Morning	|	Stretching, Calming	|	10	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Stretches	|	One arm windmills |	M Tu W Th F Sa Su	|	Morning	|	Stretching, Calming	|	10 each side	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Stretches	|	Neck rolls |	M Tu W Th F Sa Su	|	Morning	|	Stretching, Calming	|	10 each side/direction	|	1	|	Stretching	|	https://youtu.be/Wmd2SBxvxDw	|
+|	Kung Fu - Centering	|	Inhale Hands to Chest, Exhale Push down, Inhale Arms out, Exhale pull in, Inhale to sky, Exhale out	|	M Tu W Th F Sa Su	|	Morning, Night	|	Stretching, Calming	|	1 each	|	3	|	Stretching	|	_null_	|
 |	Morning Stretch Routine 3	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
 |	Morning Stretch Routine 3	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
-|	Morning Stretch Routine 3	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
-|	_null_	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
+|	Morning Core Activation - DeMarco	|	Gentle Neck Strap Pulls	|	M Tu W Th F Sa Su	|	Morning	|	Activation, Reduce Back Pain	|	30 sec	|	1-2	|	Neck	|	_null_	|
+|	Morning Core Activation - DeMarco	|	Turtle Core Push	|	M Tu W Th F Sa Su	|	Morning	|	Activation, Reduce Back Pain	|	60 sec	|	1	|	Core	|	_null_	|
+|	Light Cardio	|	Brisk Walk	|	M Tu W Th F Sa Su	|	Morning, Lunch	|	De-stress, Activation, General health	|	20 min	|	1	|	General Cardio & Stamina	|	_null_	|
+|	Intermediate Cardio	|	Quick Bike Ride	|	M Tu W Th F Sa Su	|	Lunch	|	De-stress, Activation, General health, Happiness	|	25 min	|	1	|	General Cardio & Stamina	|	_null_	|
+|	Intermediate Cardio	|	5k Run	|	M Tu W Th F Sa Su	|	Lunch	|	De-stress, Activation, General health	|	25 min	|	1	|	General Cardio & Stamina	|	_null_	|
+|	Prolonged Cardio	|	Bike Ride	|	M Tu W Th F Sa Su	|	Afternoon	|	De-stress, Activation, General health, Happiness	|	120 min	|	1	|	General Cardio & Stamina	|	_null_	|
+|	Bodyweight Exercises	|	Plank	|	M Tu W Th F Sa Su	|	Morning	|	Activation, Strengthen Abs	|	120 sec	|	1	|	Core	|	_null_	|
+|	Bodyweight Exercises	|	Rotiessire Plank	|	M Tu W Th F Sa Su	|	Morning	|	Strengthen Obliques	|	45 sec per side	|	3	|	Core	|	_null_	|
+|	Bodyweight Exercises	|	Triangle Pushups	|	M Tu W Th F Sa Su	|	Morning	|	Chest	|	30	|	2	|	Chest	|	_null_	|
+|	Bodyweight Exercises	|	Calf Raises	|	M Tu W Th F Sa Su	|	Morning	|	Leg	|	30 each side	|	1	|	Chest	|	_null_	|
+|	Bodyweight Exercises	|	Calf Raises w/ weight	|	M Tu W Th F Sa Su	|	Morning	|	Leg	|	30 each side	|	3	|	Leg	|	_null_	|
+|	Bodyweight Exercises	|	TRX "Y"s	|	M Tu W Th F Sa Su	|	Morning	|	Chest, Back	|	20	|	3	|	Chest	|	_null_	|
 |	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	a	|
 |	a	|	a	|	Daily	|	a	|	a	|	a	|	a	|	Basic Cardio	|	a	|
 |	a	|	Run - outside	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
 |	a	|	Run - Gym	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
 |	a	|	Cycle - outside	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
-|	a	|	Spin - Gym	|	Daily	|	a	|	a	|	a	|	a	|	More Cardio	|	a	|
+|	Indoor Cardio	|	Cycle - Stationary	|	M Tu W Th F Sa Su	|	Afternoon	|	_null_	|	20-30 minutes	|	1	|	Cardio & Stamina	|	https://youtu.be/wBurKQX7h4Q	|
 |	a	|	Yoga - activation	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
 |	a	|	Yoga - relaxation	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	a	|	Neck strap - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	a	|	Turtle push - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	a	|	Nerve Stretches - legs - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	a	|	Rotisserie Planks - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
-|	a	|	Neck strap - Christopher (PT)	|	Daily	|	a	|	a	|	a	|	a	|	Stretching & Activation	|	a	|
 |	a	|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Legs	|	a	|
 |	a	|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Arms	|	a	|
 |	a	|	a	|	Daily	|	a	|	a	|	a	|	a	|	Circuit - Lower Torso	|	a	|
@@ -227,19 +256,22 @@ Sage
 |	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
 |	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
 |	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Stamina	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
-|	a	|	a	|	a	|	a	|	a	|	a	|	a	|	Kung Fu - Strength	|	a	|
+|	Kung Fu - Stamina	|	Huggy twist avoids	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+|	Kung Fu - Stamina	|	Crouch, turn and block	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+|	Kung Fu - Stamina	|	Burpees w/ punch kick	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+|	Kung Fu - Stamina	|	Punch-down and block	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+|	Kung Fu - Stamina	|	Walking planks & pushup	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+|	Kung Fu - Stamina	|	Slow punches	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+|	Kung Fu - Stamina	|	Hand kicks	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+|	Kung Fu - Stamina	|	Whirling Panda	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+|	Kung Fu - Stamina	|	Handflowers/wristlocks	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+|	Kung Fu - Stamina	|	Kung fu Tree, slow in/out	|	M Tu W Th F Sa Su	|	Morning	|	Flexibility, Stamina	|	105 seconds	|	1	|	General Cardio & Stamina	|	https://www.youtube.com/@KUNGFULIFE-shifuyanxin	|
+
+### Grouping Descriptions
+
+
+
+## General Schedule
 
 ### Morning - Activate
 
@@ -250,41 +282,24 @@ I want to use this time as a "warm-up" for the day. The older we get, the more s
 * Yoga
 * Martial Art activities
 
-Brisk Walk 	20min
-Bike	20min
-Run 	20min
-Gentle Nexk Pulls
-Turtle Core Push
-Plank
-Rotisserie Planks
+### Day - Stamina and Strength
 
-Inhale hands to chest
-Exhale push diwn
-inhale arms out
-exhale pull in
-Inhale to sky
-exhale out
- 
-qBack Stretch
-Leg Strap Stretch
-hammy stretch
-angle waggle (10)
-knees waggle 
-hip swaggle (to left, to right)
-closed arm twist left, right and hold
-side stretches
-back stretch
-touch ground
-arm flaps
-one arm windmills
-neck rolls
+* Med-High cardio (running/biking is a good baseline)
+* Strength training
+* Usually less time available to do these, except on weekends
+* Getting results requires this take longer
+* Martial arts activities
+* HIIT might be good here
 
-Turtle push
-Rotisserie x2 w/ Triangle Pushups x30 
-Calf Raises
-Foot things
-Foot Massage w/ golf ball
-TRX "Ys" x3
+### Night - Release & Relax
+
+* Light cardio
+* Body relaxing/scanning
+* Stretches
+* Yoga is great
+* 8 minute quiet time
+
+
 
 #### Yoga?
 https://www.youtube.com/watch?v=pJluhiy5eas
@@ -317,41 +332,13 @@ Lay on back, twist hips to ground
 
 Long lever plank/crunch
 
-### Day - Stamina and Strength
 
-* Med-High cardio (running/biking is a good baseline)
-* Strength training
-* Usually less time available to do these, except on weekends
-* Getting results requires this take longer
-* Martial arts activities
-* HIIT might be good here
 
 #### Cardio & Strength
 
 SPIN https://youtu.be/wBurKQX7h4Q
 
 
-##### Kung Fu Stamina 
-
-Crouch, turn and block 1:45
-
-Burpees w/ punch kick 1:45
-
-Huggy twist avoids 1:45
-
-Punch-down and block  1:45
-
-Walking planks & pushup  1:45
-
-Slow punches 1:45
-
-Hand kicks1:45
-
-Whirling Panda1:45
-
-Handflowers/wristlocks 1:45
-
-Kung fu Tree, slow in/out 1:45
 
 #### Strength & Cardio
 
@@ -512,14 +499,6 @@ Huggy twists 		1	:10
 bend around torso	1	:10
 
 warrior poses		1	:10 each side
-
-### Night - Release
-
-* Low cardio
-* Body relaxing
-* Stretches
-* Yoga
-* 8 minute quiet time
 
 
 ##### Funny 15 https://www.youtube.com/watch?v=16C0RJtAjTc
