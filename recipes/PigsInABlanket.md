@@ -35,5 +35,4 @@ These are weenies in a blanket. what more is there to say?
 4. enjoy the simplicity.
 
 ## Notes
-- Improves with aging.
-- Serve with cream, custard, or brandy sauce.
+- these are delicious
